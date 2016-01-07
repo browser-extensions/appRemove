@@ -34,3 +34,5 @@ Panli webView去除webapp厂家浮动层
 
 
 3. ![](./help/images/2.png)
+
+4. 然后浏览器 各个厂家的 webapp 页面把, 网速慢的情况下 ，你会看到 各个厂家的 浮动层 消失
