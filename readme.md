@@ -28,7 +28,7 @@ Panli webView去除webapp厂家浮动层
 
 ## 如何安装
 
-1. 请先下载本程序 解压出来, 然后打开谷歌浏览器,在浏览器地址输入 `chrome://extensions/` ;
+1. 请先下载本程序 解压出来, 然后打开谷歌浏览器,在浏览器地址输入 `chrome://extensions/` 
 
 2. ![](./help/images/1.png)
 
