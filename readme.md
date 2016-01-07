@@ -38,4 +38,11 @@ Panli webView去除webapp厂家浮动层
 4. 然后浏览器 各个厂家的 webapp 页面把, 网速慢的情况下 ，你会看到 各个厂家的 浮动层 消失
 
 
-5. 安装好后 浏览器访问 https://detail.m.tmall.com/item.htm?id=521628888465, http://item.m.jd.com/product/1098344.html,http://h5.m.taobao.com/awp/core/detail.htm?id=525658240175
+5. 安装好后 浏览器访问 
+
+https://detail.m.tmall.com/item.htm?id=521628888465, 
+
+http://item.m.jd.com/product/1098344.html,
+
+
+http://h5.m.taobao.com/awp/core/detail.htm?id=525658240175
