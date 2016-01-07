@@ -33,4 +33,4 @@ Panli webView去除webapp厂家浮动层
 2. ![](./help/images/1.png)
 
 
-3. ![](./help/images/1.png)
+3. ![](./help/images/2.png)
