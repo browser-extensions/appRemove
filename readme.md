@@ -1,5 +1,14 @@
 ## Panli app webView 开发调试利器
 
+>v0.0.2
+
+攻克淘宝的 哈希 元素 模糊查找元素删除
+
+> 目前已经实现 tmall.com ,taobao.com, jd.com 
+
+等待陆续添加
+
+
 >v0.0.1
 
 方便panli  开发人员在测试 浏览页面时 观察结果
