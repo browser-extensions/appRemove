@@ -7,7 +7,7 @@
 
   "content_scripts": [{
     "matches": ["https://*.tmall.com/*","https://*.taobao.com/*","http://*.taobao.com/*","http://*.jd.com/*"],
-    "js": ["js/panli.min.js","js/jquery-2.1.4.min.js", "content_action.js"],
+    "js": ["js/panli.min.js","js/jquery-2.1.4.min.js", "js/log.js","content_action.js"],
     "css":["js/skin/pan.css"]
   }],
 
