@@ -1,7 +1,6 @@
   PanLi(function(){
         var _hostName = window.location.hostname;
-     
-    
+       
      
 		PanLi(".action-bar").html('');
 		
@@ -45,3 +44,8 @@
 			return false;			
 		});      
   })
+  
+  
+  
+  
+

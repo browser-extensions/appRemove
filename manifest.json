@@ -11,13 +11,14 @@
     "css":["js/skin/pan.css"]
   }],
 
-  "permissions": [
+  "permissions": [      
+    "notifications",
     "https://*.tmall.com/*",
     "https://*.taobao.com/*",
     "http://*.taobao.com/*",
     "http://*.jd.com/*"
   ],
-
+  "background": { "scripts": ["background.js"] },
   "icons" : {
     "48" : "icon/48.png",
     "128" : "icon/128.png"
