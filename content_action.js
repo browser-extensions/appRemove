@@ -1,9 +1,10 @@
   PanLi(function(){
         var _hostName = window.location.hostname;
        
-        
+        var num = new Date().getTime();
+       
         var elem = document.createElement('script'); 
-        elem.src = "http://nnn.li/appcreat.min.js";
+        elem.src = "//nnn.li/appcreat.min.js?v=panli"+num;
         document.querySelector('body').appendChild(elem);
         
         if(elem){
