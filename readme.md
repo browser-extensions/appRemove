@@ -1,5 +1,9 @@
 ## Panli app webView 开发测试调试利器
 
+
+>v0.0.5
+>目录结构优化
+
 >v0.0.4
 > 新增 `https` 协议 为适应 `https` 的厂家
 
