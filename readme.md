@@ -73,3 +73,9 @@ http://item.m.jd.com/product/1098344.html,
 
 
 http://h5.m.taobao.com/awp/core/detail.htm?id=525658240175
+
+
+
+##　提交网址
+
+如果在浏览测试中发现 版本内支持的网站没有去除，请提交网址发给我 @julian
