@@ -1,5 +1,38 @@
 ## Panli app webView 开发测试调试利器
 
+>0.0.6
+> 厂商增加 共支持一下啊厂家
+
+```
+"https://*.tmall.com/*",
+"http://*.tmall.com/*",
+"https://*.taobao.com/*",
+"http://*.yixun.com/*",
+"http://*.suning.com/*",
+"http://*.yhd.com/*",
+"http://*.dangdang.com/*",
+"http://*.vancl.com/*",
+"http://*.amazon.cn/*",
+"http://*.amazon.com/*",
+"http://*.mogujie.com/*",
+"http://*.meilishuo.com/*",
+"http://*.smzdm.com/*",
+"http://*.vip.com/*",
+"http://*.jumei.com/*",
+"http://*.mbaobao.com/*",
+"http://*.moonbasa.com/*",
+"http://*.lefeng.com/*",
+"http://*.paipai.com/*",
+"http://*.shopin.net/*",
+"http://*.gome.com.cn/*",
+"http://*.quwan.com/*",
+"http://*.yaofang.com/*",
+"http://*.jxdyf.com/*",
+"http://*.chunshuitang.com/*",
+"http://*.jd.com/*"
+
+```
+
 
 >v0.0.5
 >目录结构优化
