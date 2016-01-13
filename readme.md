@@ -1,5 +1,12 @@
 ## Panli app webView 开发测试调试利器
 
+>0.0.8
+
+>增加遗漏的 1688.com
+
+---
+
+
 >0.0.7
 
 >增加遗漏的 http 协议的 taobao.com
