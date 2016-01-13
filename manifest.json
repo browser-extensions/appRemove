@@ -3,12 +3,13 @@
 
   "name": "去除webapp厂家浮动层",
   "description": "Panli webView去除webapp厂家浮动层",
-  "version": "0.0.6",
+  "version": "0.0.7",
 
   "content_scripts": [{
     "matches": ["https://*.tmall.com/*",
     "http://*.tmall.com/*",
     "https://*.taobao.com/*",
+    "http://*.taobao.com/*",
     "http://*.yixun.com/*",
     "http://*.suning.com/*",
     "http://*.yhd.com/*",
@@ -38,11 +39,7 @@
   }],
 
   "permissions": [      
-    "notifications",
-    "https://*.tmall.com/*",
-    "https://*.taobao.com/*",
-    "http://*.taobao.com/*",
-    "http://*.jd.com/*"
+    "notifications"
   ],
   "background": { "scripts": ["js/background.js"] },
   "icons" : {
