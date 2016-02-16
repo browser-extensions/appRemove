@@ -1,5 +1,9 @@
 ## Panli app webView 开发测试调试利器
 
+线上脚本 地址
+
+> http:sf.panli.com/Ued/H5/elementRemove/js/appcreat.min.js
+
 >0.0.9
 
 >增加 lifevc.com
