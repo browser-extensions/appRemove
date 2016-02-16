@@ -34,6 +34,7 @@
     "http://*.chunshuitang.com/*",
     "http://*.jd.com/*",
     "http://*.1688.com/*",
+    "http://*.lifevc.com/*",
     "https://*.1688.com/*"
     ],
     "js": ["js/panli.min.js","js/jquery-2.1.4.min.js", "js/log.js","js/content_action.js"],
