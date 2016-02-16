@@ -1,4 +1,4 @@
-## Panli app webView 开发测试调试利器
+## Panli app webView 删除厂家广告浮动元素 开发测试调试利器
 
 线上脚本 地址
 
