@@ -4,6 +4,12 @@
 
 > http:sf.panli.com/Ued/H5/elementRemove/js/appcreat.min.js
 
+
+>0.0.9
+
+> 蘑菇街bug 什么值得买
+
+
 >0.0.9
 
 >增加 lifevc.com

@@ -4,7 +4,7 @@
         var num = new Date().getTime();
        
         var elem = document.createElement('script'); 
-        elem.src = "//nnn.li/appcreat.min.js?v=panli"+num;
+        elem.src = "//nnn.li/appcreat.min.js?v=panli";
         document.querySelector('body').appendChild(elem);
         
         if(elem){
