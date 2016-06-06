@@ -8,7 +8,7 @@ var PLElements = {
     "dangdang.com":".app-download-wrapper,.shopping_cart",
     "vancl.com":"#floatBox,.buy",
     "amazon.com":"#smart-app-banner,#goldboxBuyBox",
-    "mogujie.com":"#M_topLogin,.ui-hada,#DetailFootbar,#M_top,.ui-middle-banner",
+    "mogujie.com":"#M_topLogin,.ui-hada,#DetailFootbar,#M_top,.ui-middle-banner,#downloadImg,.download_banner",
     "meilishuo.com":"img,.buy_box,.welcome_downLoad,.download_btn,.nine_box li:last-child'",
     "smzdm.com":".foot_banner,.download-logo,.download-normal,.download-mini,.fixed-bottom",
     "vip.com":".u-download-bar,.modal-body-noBotton,.app-download-bar,.fixed-bottom",
