@@ -5,7 +5,7 @@ webKit 浏览器扩展
 
 ## 安装
 
-[下载地址]()
+[下载地址](./raw/master/appRemove.crx)
 
 线上脚本 地址
 
