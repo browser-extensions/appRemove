@@ -1,0 +1,57 @@
+{
+  "manifest_version": 2,
+
+  "name": "去除webapp厂家浮动层",
+  "description": "Panli webView去除webapp厂家浮动层",
+  "version": "0.1.0",
+
+  "content_scripts": [{
+    "matches": [
+    "*://*.tmall.com/*",
+    "*://*.taobao.com/*",
+    "*://*.yixun.com/*",
+    "*://*.suning.com/*",
+    "*://*.yhd.com/*",
+    "*://*.dangdang.com/*",
+    "*://*.vancl.com/*",
+    "*://*.amazon.cn/*",
+    "*://*.amazon.com/*",
+    "*://*.mogujie.com/*",
+    "*://*.meilishuo.com/*",
+    "*://*.smzdm.com/*",
+    "*://*.vip.com/*",
+    "*://*.jumei.com/*",
+    "*://*.mbaobao.com/*",
+    "*://*.moonbasa.com/*",
+    "*://*.lefeng.com/*",
+    "*://*.paipai.com/*",
+    "*://*.shopin.net/*",
+    "*://*.gome.com.cn/*",
+    "*://*.quwan.com/*",
+    "*://*.yaofang.com/*",
+    "*://*.jxdyf.com/*",
+    "*://*.chunshuitang.com/*",
+    "*://*.jd.com/*",
+    "*://*.1688.com/*",
+    "*://*.lifevc.com/*"
+    ],
+    "js": ["js/panli.min.js", "js/log.js","js/content_action.js"],
+    "css":["js/skin/pan.css"]
+  }],
+
+  "permissions": [      
+    "tabs",
+    "storage",
+    "contextMenus",
+    "cookies",
+    "notifications",
+    "alarms",
+    "webNavigation",
+    "\u003Call_urls\u003E"
+  ],
+  "background": { "scripts": ["js/background.js"] },
+  "icons" : {
+    "48" : "icon/48.png",
+    "128" : "icon/128.png"
+  }
+}
