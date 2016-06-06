@@ -5,14 +5,26 @@ webKit 浏览器扩展
 
 ## 安装
 
-[下载地址](http://github.panli.com/Julian/App-remove/raw/master/appRemove.crx)
+[浏览器扩展下载地址](http://github.panli.com/Julian/App-remove/raw/master/appRemove.crx)
+
+
+当安装好浏览器扩展后, 就可以在浏览器地址 输入 厂商的 地址了 ,
+加载完页面后,过500毫秒 就会把厂商的 弹窗广告删掉
+
+![](./help/images/2016-06-06.png)
+
 
 线上脚本 地址
 
 > http:sf.panli.com/Ued/H5/elementRemove/js/appcreat.min.js
 
 
+## v0.1.8
 
+- 聚划算 jhs.m.taobao.com 
+    - 聚划算：希望可以屏蔽打开后的那个引导下载app的层。
+    
+    
 
 
 >0.0.9
