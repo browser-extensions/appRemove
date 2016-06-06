@@ -1,6 +1,6 @@
 {
   "name": "app-remove",
-  "version": "1.2.2",
+  "version": "0.1.8",
   "description": "",
   "main": "pan.js",
   "scripts": {

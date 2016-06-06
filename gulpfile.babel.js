@@ -36,10 +36,6 @@ const banner = [
 ].join('');
 
 
-
-
-
-
 gulp.task('scripts',() => gulp.src('./src/*.js')
     .pipe(concat(`${mainjs}.js`))
     .pipe(gulp.dest(`./.tmp/js`))

@@ -3,7 +3,7 @@
 
   "name": "去除webapp厂家浮动层",
   "description": "Panli webView去除webapp厂家浮动层",
-  "version": "0.1.0",
+  "version": "0.1.8",
 
   "content_scripts": [{
     "matches": [

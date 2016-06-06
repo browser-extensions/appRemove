@@ -1,8 +1,18 @@
 ## Panli app webView 删除厂家广告浮动元素 开发测试调试利器
 
+webKit 浏览器扩展
+
+
+## 安装
+
+[下载地址]()
+
 线上脚本 地址
 
 > http:sf.panli.com/Ued/H5/elementRemove/js/appcreat.min.js
+
+
+
 
 
 >0.0.9
