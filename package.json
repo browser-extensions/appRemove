@@ -1,6 +1,6 @@
 {
   "name": "app-remove",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "",
   "main": "pan.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "bugs": {
     "url": "https://github.com/yish-design/yish-design-com/issues"
   },
-  "homepage": "http://zanjs.com",
+  "homepage": "http://panli.com",
   "devDependencies": {
     "babel-core": "^6.9.1",
     "babel-preset-es2015": "^6.9.0",
