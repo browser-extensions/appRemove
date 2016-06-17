@@ -34,6 +34,8 @@
               PanLi('body').css({'paddingTop':'0'});             
               PanLi('body,html').animate({scrollTop:PanLi(".dt-content").offset().top});
           } 
+
+
           
           
           if(_hostName == 'm.lifevc.com'){
@@ -64,6 +66,8 @@
           
           
           setTimeout(function(){
+
+           
             
             setTimeoutRemove();
             
@@ -72,7 +76,7 @@
       
       function setTimeoutRemove(){
        
-     
+      PD("#page").show();
        
        var taobaoClose = PanLi("[id$='-close']");
            	
