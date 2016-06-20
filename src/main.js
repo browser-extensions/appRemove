@@ -13,7 +13,7 @@
           PanLi(".action-bar").html('');
            
           
-         // PanLi(".action-bar,#detail-base-smart-banner,.tryme,.cart-concern-btm-fixed,.item-action,.guang-smart-banner,#J_BottomSmartBanner").remove(); 
+
           
           var url= '';
           
@@ -76,17 +76,23 @@
       
       function setTimeoutRemove(){
        
-      PD("#page").show();
+        PD("#page").show();
        
        var taobaoClose = PanLi("[id$='-close']");
-           	
-            taobaoClose.parent().remove();
+           if(taobaoClose.length > 0){
+                taobaoClose.parent().remove();
+           }	
+      
             if(_hostName == 'h5.m.taobao.com'){              
               PanLi('body').css({'paddingTop':'0'});
             };
             
        PanLi(PLElements[url]).remove();
        
+       if(_hostName == 'jhs.m.taobao.com'){
+           PanLi("html.aliapp").removeClass('maskon')
+       }
+
        
        setTimeout(function(){
             

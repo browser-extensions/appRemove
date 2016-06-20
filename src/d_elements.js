@@ -1,7 +1,7 @@
 var PLElements = {
     "tmall.com":"#detail-base-smart-banner,#J_BottomSmartBanner,#J_BottomSmartBannerLink,.app-download-popup-inner,.app-download-popup",
     "yixun.com":".goods_buy",
-    "taobao.com":".item-action,.J_bottomBar,.install-app,.thw-smartbanner,.openapp,.download-adv,#J_JHSDownloadBar,#J_JHSDownloadMask,.thw-promotion-app,.thw-smartbanner",
+    "taobao.com":".item-action,.J_bottomBar,.install-app,.thw-smartbanner,.openapp,.download-adv,#J_JHSDownloadBar,#J_JHSDownloadMask,.thw-promotion-app,.thw-smartbanner,.thw-detail-panel",
     "jd.com":".tryme,.cart-concern-btm-fixed,.topheader,.showfixedtop",
     "suning.com":".detail-download,.shopping-car,.app-down,.sn-client-box,#s-actionBar-container,.detail-download,.detail-new-download",
     "yhd.com":"#product-buy-num,.cart_fixed",
